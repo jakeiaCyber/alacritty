@@ -8,7 +8,7 @@ normal = { style = "Regular", family = "JetBrainsMono Nerd Font" }
 bold = { style = "Bold", family = "JetBrainsMono Nerd Font" }
 italic = { style = "Italic", family = "JetBrainsMono Nerd Font" }
 bold_italic = { style = "Bold Italic", family = "JetBrainsMono Nerd Font" }
-size = 14.5
+size = 17
 [env]
 TERM = "xterm-256color"
 [mouse]
